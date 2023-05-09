@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow:hidden;
 }
 .hero{
     height: 100vh;
@@ -174,12 +175,12 @@ nav ul li a:hover{
 
    }
    .img-box:hover .back-img{
-      bottom: 50px;
+      bottom: 100px;
       position: absolute;
    }
    .img-box:hover .main-img{
 /*       left:124%;    */
-      left: 70px;
+      left: 80px;
       position: absolute;
        
       
