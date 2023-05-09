@@ -169,16 +169,16 @@ nav ul li a:hover{
       transform: translateY(100%);
    }
   .img-box .main-img{
-   margin-left: -20rem;
+   margin-left: -22rem;
    transform: translateY(100%);
 
    }
    .img-box:hover .back-img{
-      bottom: 40px;
+      bottom: 50px;
       position: absolute;
    }
    .img-box:hover .main-img{
-      left:54%;
+      left:84%;
    }
   
 }
