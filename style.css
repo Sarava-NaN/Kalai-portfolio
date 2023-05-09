@@ -178,8 +178,8 @@ nav ul li a:hover{
       position: absolute;
    }
    .img-box:hover .main-img{
-      left:124%;   
-      left: 100px;
+/*       left:124%;    */
+      left: 70px;
       position: absolute;
        
       
