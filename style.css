@@ -179,6 +179,8 @@ nav ul li a:hover{
    }
    .img-box:hover .main-img{
       left:84%;
+   transform: translateY(90%);
+       
    }
   
 }
