@@ -107,7 +107,7 @@ nav ul li a:hover{
  }
 @media screen and (max-width:400px){
    .hero{
-      background: #edf2fc;
+          background: var(--primary-color);
       font-family: sans-serif;
       position: relative;
       /* display: flex; */
@@ -134,10 +134,11 @@ nav ul li a:hover{
   }
   nav ul li a{
       text-decoration: none;
-      color: #606163;
+      color:var(--secondary-color)
+      
   }
   nav ul li a:hover{
-      color: #ff4321;
+/*       color: #ff4321; */
   }
    .info{
       margin-left:8%;
@@ -146,13 +147,13 @@ nav ul li a:hover{
    }
    .info h1{
       font-size: 70px;
-      color: #212121;
+/*       color: #212121; */
       margin-bottom: 20px;
       display: flex;
       flex-direction: column;
    }
    span{
-      color: #ff4321;
+/*       color: #ff4321; */
    }
    .info p{
       color: #606163;
@@ -160,10 +161,10 @@ nav ul li a:hover{
       font-size: 1.5rem;
    }
    .info a{
-      background:#212121;
+/*       background:#212121; */
       padding: 10px 18px;
       text-decoration: none;
-      color: #fff;
+/*       color: #fff; */
       display: inline-block;
       margin: 30px 0;
       border-radius: 5px;
